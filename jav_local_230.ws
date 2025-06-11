@@ -54,7 +54,7 @@ param=25=230
 param=5=1
 param=6=0
 param=2=https://payments.jagex.com/
-param=17=https://client.blurite.io/world_list.ws
+param=17=https://raw.githubusercontent.com/ryanEnvy/files/refs/heads/main/world_list.ws?token=GHSAT0AAAAAADEH5TQBAUP3BARPWFAJQP2M2CI3YVQ
 param=20=https://social.auth.jagex.com/
 param=11=https://auth.jagex.com/
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
