@@ -3,7 +3,7 @@ adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://25.22.107.72/
 cachedir=blurite
 storebase=0
-initial_jar=gamepack_2506588.jar
+initial_jar=gamepack_8877398.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -50,7 +50,7 @@ param=4=1
 param=7=0
 param=13=.runescape.com
 param=18=
-param=25=230
+param=25=231
 param=5=1
 param=6=0
 param=2=https://payments.jagex.com/
